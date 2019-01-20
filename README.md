@@ -11,5 +11,6 @@ HOWTO:
 2. Launch ``./finalExamSorbonne2019``, everything that follows is well explained
 
 TO BE IMPROVED:
-Handle 'nasty' input (weird characters, double point...)
+
+Handle 'nasty' input (weird characters, double point...) and exception. For now programs quit unexpectedly with these inputs.
 
